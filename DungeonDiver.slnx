@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DungeonDiver.Client/DungeonDiver.Client.csproj" />
+  <Project Path="DungeonDiver/DungeonDiver.csproj" />
+  <Project Path="DungeonDiver.Tests/DungeonDiver.Tests.csproj" />
+</Solution>
